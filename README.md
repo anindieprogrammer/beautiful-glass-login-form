@@ -20,7 +20,7 @@ This is a concept of Beautiful glass login form.
 
 ### Links
 
-- [Live Site]()
+- [Live Site](https://beautiful-glass-login-form.netlify.app/)
 
 ## My process
 
